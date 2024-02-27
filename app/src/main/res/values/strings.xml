@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Result</string>
+    <string name="student">Student</string>
+    <string name="teacher">Teacher</string>
+    <string name="StudentNameSelection">Choose your name</string>
+    <array name="studentName">
+        <item>Kishan</item>
+        <item>Lavanya</item>
+        <item>Akshi</item>
+        <item>Harshit</item>
+        <item>Munna Bhaiya</item>
+    </array>
+    <array name="subjectName">
+        <item>BEEE</item>
+        <item>Linear</item>
+        <item>IOT</item>
+        <item>DLD</item>
+        <item>CP</item>
+        <item>Language</item>
+    </array>
+    <string name="beee">BEEE</string>
+    <string name="linear">Linear Algebra</string>
+    <string name="cp">Computer Programming</string>
+    <string name="iot">IOT</string>
+    <string name="dld">DLD</string>
+</resources>
